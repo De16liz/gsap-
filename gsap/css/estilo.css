@@ -1,0 +1,29 @@
+
+
+#mover1
+{
+    position: absolute;
+    border: solid 1px;
+    
+}
+img
+{
+    width: 30%;
+    height: 30%;
+    top: 500;
+    
+}
+
+#mover3
+{
+    position: absolute;
+    border: dashed 1px;
+    
+}
+
+#mover4
+{
+    position: absolute;
+    border: solid 1px;
+    right: 500px;
+}
